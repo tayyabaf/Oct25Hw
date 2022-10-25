@@ -18,38 +18,38 @@ What’s the difference between a database and a spreadsheet?
 Types of databases
 >Relational databases
 >>Most efficient and flexible way to access structured info
->
+
 >Object-oriented databases
 >>Represented in form of objects
->
+
 >Distributed databases
 >>Consists of 2 or more files located in different sites
->
+
 >Data warehouses
 >>A central repository for data
->
+
 >NoSQL databases
 >>Also known as nonrelational database
->>
+
 >>Allows unstructured and semistructured data to be stored and manipulated
->>
+
 >>Grew popular as web applications have become more complex
->
+
 >Graph databases
 >>Stores data in terms of entities and the relationships between the entities
->
+
 >OLTP Databases
 >>Analytic, speedy database meant for large number of transactions between multiple users
->
+
 >Some of the latest databases which are less common are open source databases, cloud databases, multimodel databases, document/JSON database, and self-driving databases
 
 What is database software?
 >Creates, edits, maintains database files and records
->
+
 >Enables easy file and record creation, data entry, data editing, updating, and reporting
->
+
 >Handles data storage, backup and reporting, multi-access control, and security
->
+
 >Usually has a graphical interface
 
 What is a database management system (DBMS)?
