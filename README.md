@@ -34,7 +34,14 @@ Types of databases
 >>Allows unstructured and semistructured data to be stored and manipulated
 >>
 >>Grew popular as web applications have become more complex
-
+>
+>Graph databases
+>>Stores data in terms of entities and the relationships between the entities
+>
+>OLTP Databases
+>>Analytic, speedy database meant for large number of transactions between multiple users
+>
+>Some of the latest databases which are less common are open source databases, cloud databases, multimodel databases, document/JSON database, and self-driving databases
 
 What is database software?
 
