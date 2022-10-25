@@ -8,6 +8,11 @@ What is Structured Query Language (SQL)?
 >A programming language used by most relation databases to query, manipulate, define data, and provide access control
 
 What’s the difference between a database and a spreadsheet?
+>Spreadsheets are designed for one to few users
+>>Good for when you don't require alot of data manipulation
+>
+>Databases are meant for *larger*, *massive* amounts of information. 
+>>Multiple users can securely and quikcly access and query the data at the same time using highly complex logic and language
 
 
 Types of databases
