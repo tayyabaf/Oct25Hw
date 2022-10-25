@@ -1,7 +1,7 @@
 # Database Notes
 What Is a Database?
 >An organized collection of structured info/data, typically stored electronically in a computer system
-
+>
 >Data in most of databases is modelled in rows and columns in a series of tables to make processing and data querying efficient
 
 What is Structured Query Language (SQL)?
@@ -45,38 +45,38 @@ Types of databases
 
 What is database software?
 >Creates, edits, maintains database files and records
-
+>
 >Enables easy file and record creation, data entry, data editing, updating, and reporting
-
+>
 >Handles data storage, backup and reporting, multi-access control, and security
-
+>
 >Usually has a graphical interface
 
 What is a database management system (DBMS)?
 >Serves as an interface between the database and its end users or pgrograms, allowing users to retrieve, update, ad manage how the info is organized and optimized
-
+>
 >Enables a variety of administrative options
-
+>
 >Examples: MySQL, Microsoft SQL Server, Oracle Database
 
 What is a MySQL database?
 >An open source relational database management system based on SQL
-
+>
 >Designed and optimized for web applications and can run on any platform
-
+>
 >Primary feature: on-demand flexibility
-
+>
 >DBMS of FaceBook, Twitter, Youtube, and more
 
 Database challenges
 >Absorbing significant increase in data volume
-
+>
 >Ensuring data security
-
+>
 >Keeping up with demand
-
+>
 >Managing and maintainging the database and infrastructure
-
+>
 >Remove limits on scalability
-
+>
 >Ensuring data residency, data sovereignty, or latency requirements
