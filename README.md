@@ -30,9 +30,9 @@ Types of databases
 
 >NoSQL databases
 >>Also known as nonrelational database
-
+>
 >>Allows unstructured and semistructured data to be stored and manipulated
-
+>
 >>Grew popular as web applications have become more complex
 
 >Graph databases
