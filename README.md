@@ -16,6 +16,22 @@ What’s the difference between a database and a spreadsheet?
 
 
 Types of databases
+>Relational databases
+>>Most efficient and flexible way to access structured info
+>
+>Object-oriented databases
+>>Represented in form of objects
+>
+>Distributed databases
+>>Consists of 2 or more files located in different sites
+>
+>Data warehouses
+>>A central repository for data
+>
+>NoSQL databases
+>>Also known as nonrelational database
+>>Allows unstructured and semistructured data to be stored and manipulated
+>>Grew popular as web applications have become more complex
 
 
 What is database software?
